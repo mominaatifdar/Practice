@@ -1,2 +1,2 @@
 # Practice
-this is made for practice purposes. It will serve no other purpose.
+this is made for practice purpose only and will serve no other purpose.
